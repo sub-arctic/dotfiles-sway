@@ -1,0 +1,1259 @@
+sw_volume: 100
+audio_device_state:1:IEMS
+audio_device_state:1:my_fifo
+state: play
+current: 8
+time: 125.054000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/591 - Trippie Redd - Snake Skin(Explicit).flac
+1:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/152 - Drake - Headlines (Explicit Version)(Explicit).flac
+2:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1158 - Future - She Never Been To Pluto(Explicit).flac
+3:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/459 - Young Stoner Life - Moon Man (feat. Strick & Kid Cudi)(Explicit).flac
+4:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/703 - Chillinit - 420 & 201(Explicit).flac
+5:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/69 - Key Glock - Pain Killers(Explicit).flac
+6:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/494 - Young Nudy - Yellow Tape (feat. Lil Uzi Vert)(Explicit).flac
+7:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/988 - AJ Tracey - Cat Pack(Explicit).flac
+8:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/338 - Lil Uzi Vert - Two®(Explicit).flac
+9:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/253 - Octavian - Molly Go Down(Explicit).flac
+10:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/471 - Chief Keef - Laughin' To The Bank(Explicit).flac
+11:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/869 - Mura Masa - Love$ick(Explicit).flac
+12:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1093 - Quality Control - Pink Toes(Explicit).flac
+13:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1028 - Migos - Brown Paper Bag(Explicit).flac
+14:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1003 - Migos - Get Right Witcha(Explicit).flac
+15:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/514 - Polo G - Boom(Explicit).flac
+16:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/475 - Kodak Black - Rip Stick (feat. Pooh Shiesty & Sykobob)(Explicit).flac
+17:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/249 - Metro Boomin - Niagara Falls (Foot or 2)(Explicit).flac
+18:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/183 - BROCKHAMPTON - SUGAR(Explicit).flac
+19:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/610 - Kanye West - Hurricane.flac
+20:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/642 - 21 Savage - Special(Explicit).flac
+21:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/707 - Chillinit - Bad Santa(Explicit).flac
+22:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/125 - Future - WAIT FOR U (feat. Drake & Tems)(Explicit).flac
+23:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/239 - Tyler, The Creator - SORRY NOT SORRY(Explicit).flac
+24:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/391 - Drake - What’s Next(Explicit).flac
+25:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/237 - Tyler, The Creator - See You Again (feat. Kali Uchis)(Explicit).flac
+26:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/969 - Pop Smoke - West Coast Shit(Explicit).flac
+27:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/175 - A$AP Rocky - Fine Whine (feat. Joe Fox, Future & M.I.A.)(Explicit).flac
+28:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/382 - Jay Rock - King's Dead(Explicit).flac
+29:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/602 - Lil Yachty - Solid(Explicit).flac
+30:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/915 - Lil Uzi Vert - Silly Watch(Explicit).flac
+31:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/255 - Lil Uzi Vert - Ps & Qs(Explicit).flac
+32:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/812 - Juice WRLD - Black & White(Explicit).flac
+33:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1227 - Travis Scott - THANK GOD(Explicit).flac
+34:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/189 - Trippie Redd - KNIGHT CRAWLER(Explicit).flac
+35:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/793 - A Boogie Wit da Hoodie - King of My City(Explicit).flac
+36:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/811 - XXXTENTACION - YuNg BrAtZ(Explicit).flac
+37:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1100 - Juice WRLD - Bandit(Explicit).flac
+38:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/989 - Playboi Carti - New Choppa(Explicit).flac
+39:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/322 - Chance the Rapper - No Problem (feat. Lil Wayne & 2 Chainz).flac
+40:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1031 - DaBaby - JUMP(Explicit).flac
+41:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/546 - Pop Smoke - Bout A Million(Explicit).flac
+42:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1223 - Octavian - Lit (feat. A$AP Ferg)(Explicit).flac
+43:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/115 - Kanye West - Jesus Walks(Explicit).flac
+44:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/666 - Lil Durk - JUMP(Explicit).flac
+45:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/604 - Gunna - Drippin'(Explicit).flac
+46:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/741 - Future - Fine China(Explicit).flac
+47:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/247 - ScHoolboy Q - X(Explicit).flac
+48:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1078 - Jasiah - When I'm Gone(Explicit).flac
+49:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1062 - Ski Mask the Slump God - Catch Me Outside(Explicit).flac
+50:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/594 - Gunna - At the Hotel (feat. Lil Uzi Vert & Young Jordan)(Explicit).flac
+51:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/606 - Kanye West - Moon.flac
+52:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/607 - Kanye West - Keep My Spirit Alive.flac
+53:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1074 - Comethazine - Walk (Remix)(Explicit).flac
+54:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/819 - Logic - Icy(Explicit).flac
+55:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/501 - J. Cole - l e t . g o . m y . h a n d(Explicit).flac
+56:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/377 - Chillinit - Ambitions(Explicit).flac
+57:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1157 - Future - Bought A Bad Bitch(Explicit).flac
+58:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1209 - Young Thug - Relationship (feat. Future)(Explicit).flac
+59:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/643 - Juice WRLD - Conversations(Explicit).flac
+60:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/240 - Tyler, The Creator - LEMONHEAD (feat. 42 Dugg)(Explicit).flac
+61:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/824 - A$AP Rocky - Fukk Sleep (feat. FKA twigs)(Explicit).flac
+62:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/674 - 21 Savage - Mr. Right Now (feat. Drake)(Explicit).flac
+63:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1107 - A$AP Mob - Blowin' Minds (Skateboard) (feat. A$AP Rocky, A$AP Nast, A$AP Ant, Chief Keef & Playboi Carti)(Explicit).flac
+64:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/212 - Key Glock - Randy Orton(Explicit).flac
+65:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/288 - Kid Cudi - Dive(Explicit).flac
+66:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/58 - Playboi Carti - Mileage(Explicit).flac
+67:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/449 - Lil Yachty - Minnesota(Explicit).flac
+68:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/979 - A$AP Rocky - Pharsyde (feat. Joe Fox)(Explicit).flac
+69:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/908 - Future - Jet Lag (feat. Young Scooter)(Explicit).flac
+70:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/159 - Pharrell Williams - Down In Atlanta(Explicit).flac
+71:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/834 - DaBaby - TOES(Explicit).flac
+72:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/443 - Trippie Redd - TR666(Explicit).flac
+73:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/951 - Travis Scott - STARGAZING(Explicit).flac
+74:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/652 - Chillinit - Run It Up(Explicit).flac
+75:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1225 - Octavian - King Essie(Explicit).flac
+76:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/853 - Denzel Curry - SPEEDBOAT(Explicit).flac
+77:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/540 - Playboi Carti - Choppa Won't Miss(Explicit).flac
+78:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1089 - Migos - Slippery(Explicit).flac
+79:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/886 - Lil Yachty - GET MONEY BROS(Explicit).flac
+80:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/624 - Quavo - PASS OUT(Explicit).flac
+81:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/29 - Juice WRLD - Long Gone(Explicit).flac
+82:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/403 - Foogiano - Greatest(Explicit).flac
+83:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/181 - A$AP Rocky - Changes(Explicit).flac
+84:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/102 - Drake - Hotline Bling.flac
+85:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/313 - Travis Scott - sweet sweet(Explicit).flac
+86:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/932 - Huncho Jack - Moon Rock(Explicit).flac
+87:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/770 - Juice WRLD - Fast(Explicit).flac
+88:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/697 - Drake - Papi’s Home(Explicit).flac
+89:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/469 - Trippie Redd - Miss The Rage(Explicit).flac
+90:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/511 - Polo G - RAPSTAR(Explicit).flac
+91:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/558 - KSI - Number 2 (feat. Future & 21 Savage)(Explicit).flac
+92:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/645 - Juice WRLD - Ring Ring(Explicit).flac
+93:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/833 - DaBaby - POP STAR(Explicit).flac
+94:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/334 - Meek Mill - Blue Notes(Explicit).flac
+95:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/829 - Lil Uzi Vert - Top(Explicit).flac
+96:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/909 - Future - Hard Work Pays Off(Explicit).flac
+97:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/348 - NLE Choppa - Bryson(Explicit).flac
+98:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/39 - Young Dolph - Case Closed(Explicit).flac
+99:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1236 - Travis Scott - TOPIA TWINS (feat. Rob49 & 21 Savage)(Explicit).flac
+100:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/404 - Foogiano - Want Me Dead(Explicit).flac
+101:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/868 - XXXTENTACION - Touch Eem Body(Explicit).flac
+102:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/955 - Huncho Jack - Eye 2 Eye(Explicit).flac
+103:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/114 - Kendrick Lamar - N95(Explicit).flac
+104:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/712 - Kendrick Lamar - m.A.A.d city(Explicit).flac
+105:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/794 - Lil Yachty - Peek A Boo(Explicit).flac
+106:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/411 - Travis Scott - SICKO MODE(Explicit).flac
+107:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1184 - Kodak Black - Off the Land(Explicit).flac
+108:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1032 - Kodak Black - Patty Cake(Explicit).flac
+109:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/545 - Pop Smoke - Manslaughter(Explicit).flac
+110:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1099 - Dreamville - Under The Sun(Explicit).flac
+111:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/512 - Polo G - GNF (OKOKOK)(Explicit).flac
+112:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1084 - DaBaby - Goin Baby(Explicit).flac
+113:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/220 - Kanye West - Famous(Explicit).flac
+114:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/99 - Future - 712PM(Explicit).flac
+115:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/935 - Lil Durk - 3 Headed Goat (feat. Lil Baby & Polo G)(Explicit).flac
+116:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1112 - Roddy Ricch - Start Wit Me (feat. Gunna)(Explicit).flac
+117:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/814 - Lil Uzi Vert - XO Tour Llif3(Explicit).flac
+118:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/843 - Lil Yachty - For Hot 97(Explicit).flac
+119:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1166 - Travis Scott - NC-17(Explicit).flac
+120:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/576 - Pop Smoke - Aim For The Moon(Explicit).flac
+121:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/527 - Migos - Vaccine(Explicit).flac
+122:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1243 - Travis Scott - TELEKINESIS (feat. SZA & Future)(Explicit).flac
+123:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/659 - YoungBoy Never Broke Again - Bad Morning(Explicit).flac
+124:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/370 - Pooh Shiesty - Back in Blood (feat. Lil Durk)(Explicit).flac
+125:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1170 - Travis Scott - sdp interlude(Explicit).flac
+126:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/157 - Drake - Jungle(Explicit).flac
+127:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/462 - Young Thug - Dirty Shoes (feat. Gunna)(Explicit).flac
+128:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/958 - Trippie Redd - Today(Explicit).flac
+129:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/630 - Lil Baby - Close Friends(Explicit).flac
+130:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1008 - DaBaby - RAW SHIT(Explicit).flac
+131:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/316 - Quavo - FLIP THE SWITCH(Explicit).flac
+132:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/270 - Kid Cudi - Damaged(Explicit).flac
+133:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/702 - XXXTENTACION - Riot(Explicit).flac
+134:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/582 - Kodak Black - If I'm Lyin', I'm Flyin'(Explicit).flac
+135:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/21 - NLE Choppa - Push It (feat. Young Thug)(Explicit).flac
+136:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/523 - Migos - Having Our Way(Explicit).flac
+137:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1039 - NLE Choppa - Shotta Flow 4 (feat. Chief Keef)(Explicit).flac
+138:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/126 - A Boogie Wit da Hoodie - 7 Mac 11's(Explicit).flac
+139:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/282 - Kid Cudi - Heaven On Earth(Explicit).flac
+140:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/651 - Chillinit - Wish You Well(Explicit).flac
+141:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1090 - DaBaby - Suge(Explicit).flac
+142:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/699 - A Boogie Wit da Hoodie - Me and My Guitar(Explicit).flac
+143:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/483 - Lil Skies - Excite Me (feat. Wiz Khalifa)(Explicit).flac
+144:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/994 - G Herbo - Lawyer Fees(Explicit).flac
+145:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1153 - Future - Marni On Me(Explicit).flac
+146:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/146 - Gucci Mane - Plain Jane (Feat. Rocko & T.I.)(Explicit).flac
+147:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1230 - Travis Scott - GOD'S COUNTRY(Explicit).flac
+148:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/173 - A$AP Rocky - Holy Ghost (feat. Joe Fox)(Explicit).flac
+149:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/281 - Kid Cudi - She Knows This(Explicit).flac
+150:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/345 - Lil Baby - Freestyle(Explicit).flac
+151:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/917 - Lil Uzi Vert - Bean (Kobe) [feat. Chief Keef](Explicit).flac
+152:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/530 - Migos - Light It Up(Explicit).flac
+153:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/290 - Kid Cudi - Lord I Know(Explicit).flac
+154:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/119 - Don Toliver - Video Girl(Explicit).flac
+155:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/600 - 21 Savage - No Heart(Explicit).flac
+156:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/547 - Pop Smoke - Brush Em(Explicit).flac
+157:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/760 - Kodak Black - Roll in Peace (feat. XXXTENTACION)(Explicit).flac
+158:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/110 - Kanye West - Lost In The World(Explicit).flac
+159:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/35 - Thouxanbanfauni - ULTRA VIOLET(Explicit).flac
+160:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/360 - NLE Choppa - I Don't Need No Help (Glokknine Remix)(Explicit).flac
+161:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/671 - Don Toliver - Way Bigger(Explicit).flac
+162:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1240 - Travis Scott - LOST FOREVER (feat. Westside Gunn)(Explicit).flac
+163:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/664 - Meek Mill - Hot (feat. Moneybagg Yo)(Explicit).flac
+164:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/821 - Lil Uzi Vert - Sauce It Up(Explicit).flac
+165:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/361 - Lil Durk - Should've Ducked (feat. Pooh Shiesty)(Explicit).flac
+166:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/107 - Kanye West - Homecoming(Explicit).flac
+167:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1041 - Polo G - Martin & Gina(Explicit).flac
+168:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/297 - Lil Yachty - Concrete Boys(Explicit).flac
+169:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/782 - Jasiah - Crisis(Explicit).flac
+170:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/373 - Big Scarr - SoIcyBoyz 2 (feat. Pooh Shiesty, Foogiano & Tay Keith)(Explicit).flac
+171:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/507 - Takeoff - Soul Plane(Explicit).flac
+172:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1235 - Travis Scott - I KNOW -(Explicit).flac
+173:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/564 - AJ Tracey - Little More Love(Explicit).flac
+174:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1000 - Lil Skies - Flooded(Explicit).flac
+175:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/887 - Lil Baby - Yes Indeed(Explicit).flac
+176:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/243 - Rae Sremmurd - Black Beatles(Explicit).flac
+177:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1219 - skengdo - Gemma(Explicit).flac
+178:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/276 - James Blake - Mile High.flac
+179:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/635 - Quavo - LOSE IT(Explicit).flac
+180:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1096 - Comethazine - FIND HIM!(Explicit).flac
+181:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/982 - Gunna - STREET SWEEPER (feat. Future)(Explicit).flac
+182:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/809 - Trippie Redd - Elevate & Motivate(Explicit).flac
+183:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/517 - Polo G - Go Part 1(Explicit).flac
+184:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/778 - Aminé - REEL IT IN(Explicit).flac
+185:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/368 - YG - Why You Always Hatin-(Explicit).flac
+186:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/668 - Baby Keem - family ties(Explicit).flac
+187:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/964 - 21 Savage - X (feat. Future)(Explicit).flac
+188:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/586 - Trippie Redd - Finish Line(Explicit).flac
+189:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/72 - Kanye West - Touch The Sky(Explicit).flac
+190:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/486 - J. Cole - KOD(Explicit).flac
+191:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/505 - Takeoff - None To Me(Explicit).flac
+192:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/631 - Lil Baby - Never Recover(Explicit).flac
+193:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/650 - Chillinit - Rap Zombie(Explicit).flac
+194:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/199 - Lil Yachty - THE zone~.flac
+195:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/431 - Trippie Redd - Overdose On L1fe(Explicit).flac
+196:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/905 - Future - Talk Shit Like a Preacher(Explicit).flac
+197:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/385 - Lancey Foux - India(Explicit).flac
+198:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/203 - Lil Yachty - sAy sOMETHINg(Explicit).flac
+199:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1022 - G Herbo - Death Row(Explicit).flac
+200:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/17 - Sainté - Hunnids.flac
+201:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/489 - Kodak Black - Transportin'(Explicit).flac
+202:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/347 - NLE Choppa - 100 Grapes(Explicit).flac
+203:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/589 - Trippie Redd - Captain Crunch(Explicit).flac
+204:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/470 - J. Cole - i n t e r l u d e(Explicit).flac
+205:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1120 - Bobby Shmurda - Bobby Bitch(Explicit).flac
+206:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/231 - JAY Z - Empire State Of Mind(Explicit).flac
+207:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1244 - Travis Scott - TIL FURTHER NOTICE (feat. James Blake & 21 Savage)(Explicit).flac
+208:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/242 - Juice WRLD - Legends(Explicit).flac
+209:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/942 - Trippie Redd - It Takes Time(Explicit).flac
+210:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/213 - Quavo - Greatness(Explicit).flac
+211:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/351 - 2Pac - Picture Me Rollin'(Explicit).flac
+212:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1085 - Quality Control - Baby(Explicit).flac
+213:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/766 - KYLE - iSpy (feat. Lil Yachty)(Explicit).flac
+214:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1080 - A$AP Mob - RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)(Explicit).flac
+215:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/101 - Drake - God's Plan(Explicit).flac
+216:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1014 - Tslick - Runnin' Freestyle(Explicit).flac
+217:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/363 - Lil Durk - Free Jamell (feat. YNW Melly)(Explicit).flac
+218:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1072 - Cordae - Kung Fu.flac
+219:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/367 - Ken Carson - Yale(Explicit).flac
+220:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/16 - Flyboy Tarantino - Vulture(Explicit).flac
+221:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/184 - MF DOOM - Rapp Snitch Knishes feat. Mr. Fantastik(Explicit).flac
+222:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/717 - Polo G - Start Up Again(Explicit).flac
+223:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/807 - Smokepurpp - Audi(Explicit).flac
+224:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/597 - Gunna - Spending Addiction(Explicit).flac
+225:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1129 - XXXTENTACION - RIP Roach(Explicit).flac
+226:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1037 - Polo G - Go Stupid (feat. NLE Choppa & Mike WiLL Made-It)(Explicit).flac
+227:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1171 - Travis Scott - first take(Explicit).flac
+228:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/678 - Ski Mask the Slump God - Far Gone(Explicit).flac
+229:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/241 - Metro Boomin - Trance(Explicit).flac
+230:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/478 - Migos - Straightenin(Explicit).flac
+231:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/315 - Nebu Kiniza - Gassed Up(Explicit).flac
+232:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1012 - 21 Savage - Many Men(Explicit).flac
+233:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/828 - Travis Scott - goosebumps(Explicit).flac
+234:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/412 - Ski Mask the Slump God - The Human Centipede(Explicit).flac
+235:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/673 - Don Toliver - Double Standards(Explicit).flac
+236:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/535 - Playboi Carti - Right Now(Explicit).flac
+237:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/528 - Migos - Roadrunner(Explicit).flac
+238:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/840 - Lil Yachty - Get Dripped(Explicit).flac
+239:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/305 - Lil Yachty - TALK TO ME NICE(Explicit).flac
+240:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/910 - Lil Uzi Vert - P2(Explicit).flac
+241:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/899 - Travis Scott - WAKE UP(Explicit).flac
+242:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/641 - Gunna - FAR (feat. Young Thug)(Explicit).flac
+243:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1182 - Kodak Black - Conscience (feat. Future)(Explicit).flac
+244:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/595 - Gunna - Top Off(Explicit).flac
+245:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/228 - Juice WRLD - Robbery(Explicit).flac
+246:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/503 - J. Cole - m y . l i f e(Explicit).flac
+247:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/320 - A$AP Rocky - Black Tux, White Collar(Explicit).flac
+248:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/45 - Young Dolph - Rich Slave(Explicit).flac
+249:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/914 - Lil Uzi Vert - POP(Explicit).flac
+250:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/716 - Polo G - Don't Play(Explicit).flac
+251:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/677 - Young Thug - Bubbly (feat. Drake & Travis Scott)(Explicit).flac
+252:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/81 - Juice WRLD - Not Enough(Explicit).flac
+253:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/983 - A$AP Rocky - Phoenix(Explicit).flac
+254:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1002 - Lil Skies - Name in the Sand(Explicit).flac
+255:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/444 - Trippie Redd - Don(Explicit).flac
+256:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1069 - Metro Boomin - 10 Freaky Girls(Explicit).flac
+257:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/788 - Lil Baby - Yes Indeed(Explicit).flac
+258:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/990 - Tory Lanez - Stupid Again(Explicit).flac
+259:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/612 - Juice WRLD - Stay High(Explicit).flac
+260:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/704 - Chillinit - High To Chase The Low(Explicit).flac
+261:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1177 - Pop Smoke - Invincible(Explicit).flac
+262:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/965 - 21 Savage - No Advance(Explicit).flac
+263:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1036 - Post Malone - Deja Vu(Explicit).flac
+264:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/726 - BlocBoy JB - Look Alive (feat. Drake)(Explicit).flac
+265:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/18 - Juice WRLD - Used To(Explicit).flac
+266:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/358 - NLE Choppa - Jiggin(Explicit).flac
+267:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/421 - Future - Codeine Crazy(Explicit).flac
+268:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/327 - Lil Skies - Lust(Explicit).flac
+269:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1114 - Mustard - Ballin’(Explicit).flac
+270:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1185 - Kodak Black - Twenty 8(Explicit).flac
+271:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/271 - Robb Bank$ - EI(Explicit).flac
+272:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/216 - Calvin Harris - New Money(Explicit).flac
+273:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/826 - XXXTENTACION - Look At Me!(Explicit).flac
+274:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/571 - Bass Santana - Angles(Explicit).flac
+275:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1055 - Ski Mask the Slump God - Durgaflowz(Explicit).flac
+276:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/28 - Juice WRLD - Doom(Explicit).flac
+277:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/158 - ScHoolboy Q - Studio(Explicit).flac
+278:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/654 - Chillinit - Arabian Nights(Explicit).flac
+279:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/754 - Trippie Redd - Taking A Walk(Explicit).flac
+280:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1139 - King Von - Back Again(Explicit).flac
+281:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/709 - Playboi Carti - Lean 4 Real(Explicit).flac
+282:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/154 - Drake - Tuscan Leather.flac
+283:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/499 - Takeoff - Last Memory(Explicit).flac
+284:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1029 - Internet Money - Blastoff(Explicit).flac
+285:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1207 - Young Thug - Guwop (feat. Quavo, Offset and Young Scooter)(Explicit).flac
+286:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/224 - Kanye West - Good Morning(Explicit).flac
+287:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/847 - Travis Scott - coordinate(Explicit).flac
+288:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/287 - Kid Cudi - Another Day(Explicit).flac
+289:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/04 - Jay1 - Mocking It(Explicit).flac
+290:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/768 - Lil Skies - Nowadays (feat. Landon Cube)(Explicit).flac
+291:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/842 - Travis Scott - HIGHEST IN THE ROOM(Explicit).flac
+292:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/663 - Meek Mill - Me (FWM) (feat. A$AP Ferg)(Explicit).flac
+293:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/198 - Lil Yachty - -(failure(-(Explicit).flac
+294:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/625 - Quavo - HOW BOUT THAT-(Explicit).flac
+295:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/207 - Lil Yachty - REACH THE SUNSHINE.flac
+296:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/124 - Trippie Redd - Loyalty Before Royalty(Explicit).flac
+297:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/399 - slowthai - CANCELLED(Explicit).flac
+298:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/975 - Bass Santana - Make Eem Run!(Explicit).flac
+299:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/46 - Young Dolph - Large Amounts(Explicit).flac
+300:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/230 - Juice WRLD - Who Shot Cupid-(Explicit).flac
+301:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1172 - Travis Scott - wonderful(Explicit).flac
+302:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/227 - Juice WRLD - All Girls Are The Same(Explicit).flac
+303:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/772 - Trippie Redd - Gore(Explicit).flac
+304:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/946 - Lil Yachty - Can't Go(Explicit).flac
+305:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1213 - Stormzy - Vossi Bop(Explicit).flac
+306:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/723 - YoungBoy Never Broke Again - How Ya Kno(Explicit).flac
+307:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/608 - Kanye West - Lord I Need You.flac
+308:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1211 - V9 - 9ZOO(Explicit).flac
+309:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/160 - Freddie Dredd - Limbo(Explicit).flac
+310:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/91 - Skepta - It Ain't Safe(Explicit).flac
+311:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/683 - SpotemGottem - Beat Box 4(Explicit).flac
+312:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/774 - Trippie Redd - Negative Energy(Explicit).flac
+313:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/953 - A$AP Rocky - L$D(Explicit).flac
+314:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/676 - Young Thug - Scoliosis (with Lil Double 0)(Explicit).flac
+315:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/875 - Roddy Ricch - Peta (feat. Meek Mill)(Explicit).flac
+316:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/947 - Lil Yachty - Whew' Chile(Explicit).flac
+317:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/658 - Kanye West - Believe What I Say.flac
+318:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1164 - Future - My Legacy(Explicit).flac
+319:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/194 - Lil Yachty - the BLACK seminole.flac
+320:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/999 - Lil Skies - I(Explicit).flac
+321:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1149 - 21 Savage - gun smoke(Explicit).flac
+322:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/930 - Metro Boomin - No Complaints(Explicit).flac
+323:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/761 - Travis Scott - YOSEMITE(Explicit).flac
+324:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/532 - Tyler, The Creator - JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)(Explicit).flac
+325:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/776 - Smokepurpp - Nephew (feat. Lil Pump)(Explicit).flac
+326:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/145 - Kanye West - We Don't Care(Explicit).flac
+327:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/311 - Joey Bada$$ - TEMPTATION(Explicit).flac
+328:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/544 - Pop Smoke - Tell The Vision(Explicit).flac
+329:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/108 - Kanye West - Champion(Explicit).flac
+330:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/307 - JACKBOYS - WHAT TO DO- (feat. Don Toliver)(Explicit).flac
+331:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1193 - Sheff G - No Suburban, Pt. 2(Explicit).flac
+332:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/163 - SZA - Good Days(Explicit).flac
+333:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/480 - 21 Savage - Spiral(Explicit).flac
+334:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/192 - Lil Yachty - the ride-.flac
+335:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/353 - NLE Choppa - N.W.A(Explicit).flac
+336:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/548 - Pop Smoke - Top Shotta(Explicit).flac
+337:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/260 - Lil Tjay - Wet Em Up Pt. 2(Explicit).flac
+338:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/323 - Trippie Redd - Under Enemy Arms(Explicit).flac
+339:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/873 - A$AP Mob - Yamborghini High (feat. Juicy J)(Explicit).flac
+340:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/581 - Kodak Black - No Flockin(Explicit).flac
+341:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/463 - Metro Boomin - Blue Pill(Explicit).flac
+342:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/02 - Playboi Carti - Control(Explicit).flac
+343:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/170 - A$AP Rocky - LVL(Explicit).flac
+344:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/773 - Lil Baby - Ready(Explicit).flac
+345:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1042 - NLE Choppa - Double Bacc(Explicit).flac
+346:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/537 - Post Malone - Motley Crew(Explicit).flac
+347:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/810 - Lil Uzi Vert - The Way Life Goes (feat. Oh Wonder)(Explicit).flac
+348:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/436 - Trippie Redd - I Tried Loving(Explicit).flac
+349:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1097 - Dreamville - Wells Fargo (Interlude)(Explicit).flac
+350:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/715 - Lil Wayne - F Him Good(Explicit).flac
+351:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/473 - Jack Harlow - Tyler Herro(Explicit).flac
+352:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1144 - King Von - The Code(Explicit).flac
+353:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/806 - Offset - Ric Flair Drip(Explicit).flac
+354:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/428 - Trippie Redd - Feel Good(Explicit).flac
+355:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/584 - Trippie Redd - Holy Smokes(Explicit).flac
+356:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/138 - Metro Boomin - Don't Come Out The House(Explicit).flac
+357:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/439 - Trippie Redd - Signing Off(Explicit).flac
+358:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1068 - Craig Xen - PROUD PUPPY LOVER!(Explicit).flac
+359:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/164 - SZA - Forgiveless (feat. Ol' Dirty Bastard)(Explicit).flac
+360:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/336 - 03 Greedo - Never Bend (feat. Lil Uzi Vert) (Remix)(Explicit).flac
+361:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/781 - Ski Mask the Slump God - Gone (Interlude)(Explicit).flac
+362:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/289 - Kid Cudi - The Void(Explicit).flac
+363:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/588 - Trippie Redd - Rich MF(Explicit).flac
+364:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/142 - Kanye West - We Major(Explicit).flac
+365:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/84 - Post Malone - Goodbyes(Explicit).flac
+366:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/533 - Tyler, The Creator - WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)(Explicit).flac
+367:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/128 - A Boogie Wit da Hoodie - Numbers (feat. Roddy Ricch, Gunna & London on Da Track)(Explicit).flac
+368:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/923 - Trippie Redd - Wicked(Explicit).flac
+369:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/870 - Playboi Carti - wokeuplikethis-(Explicit).flac
+370:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/100 - Future - PUFFIN ON ZOOTIEZ(Explicit).flac
+371:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1154 - Future - Real Baby Pluto(Explicit).flac
+372:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1161 - Young Thug - Sin (feat. Jaden Smith)(Explicit).flac
+373:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1081 - Lil Durk - Green Light(Explicit).flac
+374:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/406 - Foogiano - YANO(Explicit).flac
+375:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1146 - King Von - Took Her To The O(Explicit).flac
+376:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/143 - Kanye West - Celebration(Explicit).flac
+377:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/525 - Migos - Malibu(Explicit).flac
+378:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/639 - onefour - In the Beginning(Explicit).flac
+379:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/310 - Sheff G - We Getting Money(Explicit).flac
+380:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1135 - King Von - All These Niggas(Explicit).flac
+381:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/878 - Huncho Jack - Dubai Shit(Explicit).flac
+382:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1013 - 21 Savage - Rich Nigga Shit (feat. Young Thug)(Explicit).flac
+383:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/648 - Drake - Way 2 Sexy(Explicit).flac
+384:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/208 - Denzel Curry - X-Wing(Explicit).flac
+385:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/85 - Michael Jackson - Billie Jean.flac
+386:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/274 - Future - Sleeping On The Floor(Explicit).flac
+387:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/293 - NLE Choppa - Daydream(Explicit).flac
+388:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1148 - King Von - Trust Issues(Explicit).flac
+389:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/07 - Gunna - Pushin P (feat. Young Thug)(Explicit).flac
+390:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/882 - Lil Uzi Vert - X(Explicit).flac
+391:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/634 - Quavo - LOST(Explicit).flac
+392:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/291 - Kid Cudi - The Pale Moonlight(Explicit).flac
+393:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/731 - Gucci Mane - St. Brick Intro(Explicit).flac
+394:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/974 - Smokepurpp - Fingers Blue (feat. Travis Scott)(Explicit).flac
+395:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/893 - Travis Scott - Oh My Dis Side (feat. Quavo)(Explicit).flac
+396:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/379 - Chillinit - Rubik's Cube(Explicit).flac
+397:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/14 - NLE Choppa - Too Hot (feat. Moneybagg Yo)(Explicit).flac
+398:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1091 - Yung Bans - Hold Up (feat. Gunna & Young Thug).flac
+399:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/808 - Smokepurpp - Do Not Disturb (feat. Lil Yachty & Offset)(Explicit).flac
+400:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1101 - DaBaby - INTRO(Explicit).flac
+401:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/644 - Valee - I Got Whatever(Explicit).flac
+402:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/357 - DJ Scheme - Buck 50(Explicit).flac
+403:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/860 - Juice WRLD - Big(Explicit).flac
+404:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/116 - Kanye West - Dark Fantasy(Explicit).flac
+405:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/978 - A$AP Rocky - Electric Body (feat. ScHoolboy Q)(Explicit).flac
+406:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/330 - Playboi Carti - Place(Explicit).flac
+407:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/424 - Trippie Redd - Blade Of Woe(Explicit).flac
+408:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/299 - Chillinit - Laying Low(Explicit).flac
+409:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1174 - Pop Smoke - What You Know Bout Love(Explicit).flac
+410:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/488 - Kodak Black - Z Look Jamaican(Explicit).flac
+411:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/432 - Trippie Redd - Missing My Idols(Explicit).flac
+412:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/713 - Lil Wayne - Dedicate(Explicit).flac
+413:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1111 - Roddy Ricch - The Box(Explicit).flac
+414:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/166 - A$AP Rocky - Purple Swag REMIX (feat. Bun B, Paul Wall & Killa Kyleon)(Explicit).flac
+415:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1176 - Pop Smoke - Snitching(Explicit).flac
+416:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/986 - Skepta - Greaze Mode(Explicit).flac
+417:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/342 - Lil Uzi Vert - Secure The Bag(Explicit).flac
+418:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/445 - JACKBOYS - OUT WEST (feat. Young Thug)(Explicit).flac
+419:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/420 - Future - Too Comfortable(Explicit).flac
+420:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/408 - Foogiano - MENACE (feat. Pooh Shiesty)(Explicit).flac
+421:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/57 - A$AP Rocky - Peso(Explicit).flac
+422:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/789 - Big Sean - Blessings(Explicit).flac
+423:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/732 - Lil Baby - Transporter(Explicit).flac
+424:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/267 - DJ Scheme - 3 Sum(Explicit).flac
+425:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/292 - 21 Savage - ball w-o you(Explicit).flac
+426:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/967 - 21 Savage - Mad Stalkers(Explicit).flac
+427:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/820 - Jasiah - FDD(Explicit).flac
+428:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1109 - Lil Yachty - Gimmie My Respect (Intro)(Explicit).flac
+429:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/660 - YoungBoy Never Broke Again - No Where(Explicit).flac
+430:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/485 - Lil Skies - Posse (feat. Drakeo the Ruler)(Explicit).flac
+431:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/599 - 21 Savage - Famous(Explicit).flac
+432:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1224 - Octavian - Take It Easy (feat. Smokepurpp)(Explicit).flac
+433:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/165 - A$AP Rocky - I Come Apart (feat. Florence Welch)(Explicit).flac
+434:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/12 - Gunna - south to west(Explicit).flac
+435:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/521 - Playboi Carti - dothatshit!(Explicit).flac
+436:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/695 - DaBaby - ROOF(Explicit).flac
+437:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/858 - Smokepurpp - What I Please (feat. Denzel Curry)(Explicit).flac
+438:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1131 - Trippie Redd - Red Beam(Explicit).flac
+439:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/929 - Gunna - Drip or Drown(Explicit).flac
+440:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1009 - bbno$ - dont tell me shit(Explicit).flac
+441:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/455 - Young Stoner Life - Came and Saw (feat. Rowdy Rebel)(Explicit).flac
+442:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/476 - Nerve - MIGRAINES(Explicit).flac
+443:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/71 - Dave - Starlight(Explicit).flac
+444:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/350 - Future - Thought It Was a Drought(Explicit).flac
+445:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/617 - Drake - Fair Trade(Explicit).flac
+446:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/153 - Drake - Gyalchester(Explicit).flac
+447:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/210 - Quavo - Tony Starks(Explicit).flac
+448:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/575 - Bass Santana - my dick can't move!(Explicit).flac
+449:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/694 - DaBaby - LEVELS(Explicit).flac
+450:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/823 - A$AP Rocky - Everyday (feat. Rod Stewart, Miguel & Mark Ronson)(Explicit).flac
+451:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/998 - Lil Skies - Creeping (feat. Rich the Kid)(Explicit).flac
+452:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/340 - Lil Uzi Vert - No Sleep Leak(Explicit).flac
+453:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/865 - Playboi Carti - Magnolia(Explicit).flac
+454:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/08 - Gunna - how you did that (feat. Kodak Black)(Explicit).flac
+455:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/796 - Lil Yachty - NBAYOUNGBOAT(Explicit).flac
+456:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/725 - Mike Dimes - BACKROOM(Explicit).flac
+457:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1197 - Sheff G - Designer(Explicit).flac
+458:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/221 - Twista - Slow Jamz (feat. Kanye West & Jamie Foxx).flac
+459:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1024 - 21 Savage - Said N Done(Explicit).flac
+460:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/615 - Juice WRLD - Hate The Other Side(Explicit).flac
+461:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1066 - Lil Uzi Vert - Money Longer(Explicit).flac
+462:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/785 - Comethazine - SOLVED THE PROBLEM(Explicit).flac
+463:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/149 - J. Cole - Love Yourz(Explicit).flac
+464:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/248 - Juice WRLD - Won’t Let Go(Explicit).flac
+465:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1204 - Cordae - Lost & Found(Explicit).flac
+466:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1241 - Travis Scott - LOOOVE (feat. Kid Cudi)(Explicit).flac
+467:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/136 - Kodak Black - ZEZE (feat. Travis Scott & Offset)(Explicit).flac
+468:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/554 - KSI - No Time (feat. Lil Durk)(Explicit).flac
+469:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/616 - Juice WRLD - Come & Go(Explicit).flac
+470:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1010 - JustZeke - Dayum (JuggSzn)(Explicit).flac
+471:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/42 - Young Dolph - Hold Up Hold Up Hold Up(Explicit).flac
+472:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/422 - Keith Ape - Achoo(Explicit).flac
+473:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1136 - King Von - How It Go(Explicit).flac
+474:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/795 - Ski Mask the Slump God - LA LA(Explicit).flac
+475:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/896 - Travis Scott - R.I.P. SCREW(Explicit).flac
+476:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/251 - Kanye West - Never Let Me Down(Explicit).flac
+477:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/657 - Trippie Redd - Miss The Rage(Explicit).flac
+478:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1117 - Yo Gotti - Pose (feat. Lil Uzi Vert)(Explicit).flac
+479:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/972 - Juice WRLD - Can't Die(Explicit).flac
+480:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/888 - Travis Scott - Nightcrawler (feat. Swae Lee & Chief Keef)(Explicit).flac
+481:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/724 - Kanye West - Heartless.flac
+482:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/52 - Young Dolph - Coordinate(Explicit).flac
+483:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/980 - A$AP Rocky - Wavybone (feat. Juicy J & UGK)(Explicit).flac
+484:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/593 - Comethazine - WINE & DINE(Explicit).flac
+485:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/500 - Takeoff - Insomnia(Explicit).flac
+486:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/56 - Don Toliver - Best You Had(Explicit).flac
+487:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/25 - NLE Choppa - Mmm Hmm(Explicit).flac
+488:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/484 - Lil Skies - Locked Up(Explicit).flac
+489:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/922 - Tory Lanez - Broke In A Minute(Explicit).flac
+490:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/70 - Benny The Butcher - Johnny P's Caddy(Explicit).flac
+491:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/531 - Bigkaybeezy - BookBag 2.0(Explicit).flac
+492:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/987 - Travis Scott - the ends(Explicit).flac
+493:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/298 - Gunna - MET GALA(Explicit).flac
+494:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/737 - 21 Savage - a lot(Explicit).flac
+495:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1026 - BlueFace - Holy Moly(Explicit).flac
+496:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1044 - NLE Choppa - Neighborhood Watch(Explicit).flac
+497:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/365 - Lil Durk - Not The Same(Explicit).flac
+498:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/176 - A$AP Rocky - Excuse Me(Explicit).flac
+499:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/168 - A$AP Rocky - Suddenly(Explicit).flac
+500:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/306 - Lil Uzi Vert - Banned from TV(Explicit).flac
+501:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1188 - Bass Santana - LOL(Explicit).flac
+502:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1196 - Sheff G - Tonight(Explicit).flac
+503:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/236 - Kanye West - Off The Grid.flac
+504:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1191 - 22Gz - Suburban, Pt. 2(Explicit).flac
+505:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/798 - Playboi Carti - Foreign(Explicit).flac
+506:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/620 - Quality Control - Big Rocks(Explicit).flac
+507:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/218 - Kanye West - Through The Wire(Explicit).flac
+508:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/856 - Lil Uzi Vert - Futsal Shuffle 2020(Explicit).flac
+509:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/553 - Pop Smoke - Demeanor(Explicit).flac
+510:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/104 - KIDS SEE GHOSTS - 4th Dimension(Explicit).flac
+511:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/225 - Kanye West - Can't Tell Me Nothing(Explicit).flac
+512:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/611 - Kanye West - Waves(Explicit).flac
+513:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1142 - Trippie Redd - Oomps Revenge Pt.2(Explicit).flac
+514:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/106 - Kanye West - The Glory(Explicit).flac
+515:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1035 - Future - Solitaires (feat. Travis Scott)(Explicit).flac
+516:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/352 - NLE Choppa - Cruze (feat. Meek Mill)(Explicit).flac
+517:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/427 - Trippie Redd - Overweight(Explicit).flac
+518:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1045 - NLE Choppa - Molly(Explicit).flac
+519:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/968 - 21 Savage - Thug Life(Explicit).flac
+520:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/580 - Kanye West - Wolves(Explicit).flac
+521:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/77 - Kanye West - All Of The Lights(Explicit).flac
+522:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1156 - Future - Million Dollar Play(Explicit).flac
+523:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/792 - A Boogie Wit da Hoodie - Skeezers(Explicit).flac
+524:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/790 - French Montana - Unforgettable (feat. Swae Lee)(Explicit).flac
+525:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/407 - Foogiano - Overtime (feat. Geezy Escobar)(Explicit).flac
+526:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/864 - Juice WRLD - Out My Way(Explicit).flac
+527:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/147 - XXXTENTACION - FUXK (feat. Ski Mask the Slump God)(Explicit).flac
+528:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/309 - Young Dolph - By Mistake(Explicit).flac
+529:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/960 - Trippie Redd - Even Steven(Explicit).flac
+530:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/460 - Young Thug - Chanel (Go Get It) [feat. Gunna & Lil Baby](Explicit).flac
+531:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/879 - Travis Scott - Don't Play (feat. The 1975 & Big Sean)(Explicit).flac
+532:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/705 - Chillinit - Pablo(Explicit).flac
+533:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/801 - A$AP Rocky - Babushka Boi(Explicit).flac
+534:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/36 - Young Dolph - 1 Scale(Explicit).flac
+535:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/317 - DaBaby - GOSPEL(Explicit).flac
+536:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/552 - Pop Smoke - What’s Crackin(Explicit).flac
+537:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/465 - Gunna - BLINDFOLD (feat. Lil Baby)(Explicit).flac
+538:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/866 - Lil Uzi Vert - 20 Min(Explicit).flac
+539:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/331 - Playboi Carti - Sky(Explicit).flac
+540:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/402 - Foogiano - CAUTIOUS (feat. Tay Keith)(Explicit).flac
+541:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/410 - Madeintyo - HUNNIDDOLLA(Explicit).flac
+542:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1116 - Lil Uzi Vert - Neon Guts (feat. Pharrell Williams)(Explicit).flac
+543:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/775 - Juice WRLD - Wasted(Explicit).flac
+544:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/10 - Gunna - Baby Birkin(Explicit).flac
+545:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/791 - The Kid LAROI - GO(Explicit).flac
+546:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/398 - slowthai - terms(Explicit).flac
+547:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1200 - Sheff G - Menace(Explicit).flac
+548:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/66 - King Von - Ain't See It Coming(Explicit).flac
+549:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/329 - Young Nudy - EA (feat. 21 Savage)(Explicit).flac
+550:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/805 - Meek Mill - Going Bad (feat. Drake)(Explicit).flac
+551:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/822 - Trippie Redd - Lil Wayne(Explicit).flac
+552:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1113 - Roddy Ricch - Tip Toe (feat. A Boogie Wit da Hoodie)(Explicit).flac
+553:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/195 - Lil Yachty - the ride-.flac
+554:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/442 - Trippie Redd - Hate Me(Explicit).flac
+555:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/626 - Lil Baby - Hats Off(Explicit).flac
+556:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/570 - Bass Santana - Curse(Explicit).flac
+557:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/752 - Trippie Redd - Love Scars 3(Explicit).flac
+558:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/800 - Smokepurpp - 123(Explicit).flac
+559:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/518 - Polo G - GANG GANG(Explicit).flac
+560:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/140 - Kanye West - Jesus Walks(Explicit).flac
+561:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/26 - NLE Choppa - Still Hood(Explicit).flac
+562:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/74 - Kanye West - Gorgeous(Explicit).flac
+563:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/609 - Kanye West - No Child Left Behind.flac
+564:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/496 - Young Nudy - Colombian Necktie(Explicit).flac
+565:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/111 - Kanye West - Highlights(Explicit).flac
+566:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/596 - Gunna - Helluva Price(Explicit).flac
+567:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/73 - Kanye West - Paranoid.flac
+568:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/388 - Future - March Madness(Explicit).flac
+569:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/682 - Chiptune Punks - Run(8-Bit Computer Game Cover Version of Juice WRLD).flac
+570:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1021 - 21 Savage - Slidin(Explicit).flac
+571:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/928 - NLE Choppa - Famous Hoes(Explicit).flac
+572:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/743 - Trippie Redd - Oomps Revenge(Explicit).flac
+573:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/214 - Metro Boomin - Superhero (Heroes & Villains)(Explicit).flac
+574:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/719 - Lil Wayne - Let It Fly(Explicit).flac
+575:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/234 - Future - Solo(Explicit).flac
+576:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/515 - Polo G - Losses(Explicit).flac
+577:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/943 - Lil Yachty - Lemon Head(Explicit).flac
+578:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/727 - Travis - Sky Fall(Explicit).flac
+579:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1020 - NLE Choppa - Walk Em Down (feat. Roddy Ricch)(Explicit).flac
+580:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/924 - DaBaby - PICK UP(Explicit).flac
+581:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/541 - A$AP Rocky - Long Live A$AP(Explicit).flac
+582:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/688 - Playboi Carti - Half & Half(Explicit).flac
+583:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/784 - Comethazine - NO EVIDENCE(Explicit).flac
+584:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/839 - Travis Scott - BUTTERFLY EFFECT.flac
+585:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/745 - Lil Baby - Pure Cocaine(Explicit).flac
+586:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/226 - Kanye West - Touch The Sky(Explicit).flac
+587:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/132 - Post Malone - I Cannot Be (A Sadder Song)(Explicit).flac
+588:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1047 - NLE Choppa - Narrow Road (feat. Lil Baby)(Explicit).flac
+589:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/539 - Playboi Carti - FlatBed Freestyle(Explicit).flac
+590:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1051 - Travis Scott - Antidote(Explicit).flac
+591:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/574 - Isaiah Rashad - From the Garden (feat. Lil Uzi Vert)(Explicit).flac
+592:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1221 - Octavian - Rari (feat. Future)(Explicit).flac
+593:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/502 - J. Cole - a m a r i(Explicit).flac
+594:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/655 - Chillinit - Overdrive Pt. 2(Explicit).flac
+595:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/296 - Trippie Redd - Dangerous(Explicit).flac
+596:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/383 - Pi'erre Bourne - Guillotine(Explicit).flac
+597:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/441 - Trippie Redd - M's(Explicit).flac
+598:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/926 - Migos - Bad and Boujee(Explicit).flac
+599:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/952 - G Herbo - Real One(Explicit).flac
+600:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/191 - Lil Yachty - the BLACK seminole.flac
+601:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/328 - Gucci Mane - Don't Count Me Out(Explicit).flac
+602:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/613 - Juice WRLD - Bad Energy(Explicit).flac
+603:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/217 - Goostavo - NEVER SEE ME AGAIN.flac
+604:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1179 - Pop Smoke - Hotel Lobby(Explicit).flac
+605:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/711 - Saba - Stop That(Explicit).flac
+606:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/477 - Lil Gnar, Ski Mask The Slump God, Chief Keef - NEW BUGATTI (feat. Ski Mask The Slump God, Chief Keef, DJ Scheme)(Explicit).flac
+607:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/266 - DJ Scheme - Splurgin(Explicit).flac
+608:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1126 - King Von - Crazy Story(Explicit).flac
+609:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/200 - Lil Yachty - WE SAW THE SUN!.flac
+610:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/416 - A$AP Mob - Frat Rules (feat. A$AP Rocky, Playboi Carti & Big Sean)(Explicit).flac
+611:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1205 - 21 Savage - out for the night (part 2)(Explicit).flac
+612:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/51 - Key Glock - Flyest Highest Coolest Smoothest(Explicit).flac
+613:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/749 - Gunna - Car Sick (feat. NAV & Metro Boomin)(Explicit).flac
+614:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1088 - Lil Uzi Vert - How to Talk(Explicit).flac
+615:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/759 - Ski Mask the Slump God - Take A Step Back(Explicit).flac
+616:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1201 - Sheff G - Michael(Explicit).flac
+617:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/529 - Migos - Jane(Explicit).flac
+618:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/257 - Gunna - Who You Foolin(Explicit).flac
+619:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1138 - King Von - Demon(Explicit).flac
+620:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1212 - Zone 2 - No Censor(Explicit).flac
+621:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1038 - NLE Choppa - Camelot(Explicit).flac
+622:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/273 - Robb Bank$ - Ride Wit Me(Explicit).flac
+623:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/450 - Lil Yachty - G.I. Joe(Explicit).flac
+624:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/321 - Yung Gravy - Whip A Tesla(Explicit).flac
+625:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/919 - Lil Uzi Vert - No Auto (feat. Lil Durk)(Explicit).flac
+626:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/825 - A$AP Rocky - A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)(Explicit).flac
+627:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/543 - A$AP Rocky - Angels(Explicit).flac
+628:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/423 - Playboi Carti - Top(Explicit).flac
+629:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1194 - NLE Choppa - Capo(Explicit).flac
+630:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/667 - YoungBoy Never Broke Again - On My Side(Explicit).flac
+631:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/54 - Young Dolph - A Goat & A Dolphin(Explicit).flac
+632:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1181 - Kodak Black - In the Flesh(Explicit).flac
+633:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/280 - Kid Cudi - Tequila Shots(Explicit).flac
+634:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1180 - Kodak Black - Identity Theft(Explicit).flac
+635:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1168 - Playboi Carti - Location(Explicit).flac
+636:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/346 - NLE Choppa - Picture Me Grapin’(Explicit).flac
+637:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/562 - Vince Staples - MHM(Explicit).flac
+638:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/721 - Juice WRLD - From My Window(Explicit).flac
+639:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1119 - Trippie Redd - The Nether(Explicit).flac
+640:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/696 - Juice WRLD - From My Window(Explicit).flac
+641:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/629 - Lil Baby - No Sucker(Explicit).flac
+642:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/846 - Ski Mask the Slump God - Cat Piss(Explicit).flac
+643:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/372 - Pooh Shiesty - Monday to Sunday (feat. Lil Baby & BIG30)(Explicit).flac
+644:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/995 - Lil Baby - Life Goes On(Explicit).flac
+645:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/984 - Travis Scott - lose(Explicit).flac
+646:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/555 - DJ Rell - Mood(Explicit).flac
+647:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1217 - Taze - Unprovoked(Explicit).flac
+648:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/797 - Madeintyo - Ned Flanders (feat. A$AP Ferg)(Explicit).flac
+649:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/679 - Gunna - too easy(Explicit).flac
+650:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/966 - 21 Savage - Bank Account(Explicit).flac
+651:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/43 - Young Dolph - The Land(Explicit).flac
+652:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/318 - Lil Pump - Drug Addicts(Explicit).flac
+653:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/973 - Juice WRLD - Man Of The Year(Explicit).flac
+654:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/783 - Jasiah - Shenanigans (feat. Yung Bans)(Explicit).flac
+655:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1059 - Team Twin - We Get Turnt Up.flac
+656:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1064 - Ski Mask the Slump God - Get Geeked(Explicit).flac
+657:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1218 - YCB - DSQ(Explicit).flac
+658:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/755 - Kodak Black - Tunnel Vision(Explicit).flac
+659:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/884 - Lil Uzi Vert - Do What I Want(Explicit).flac
+660:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/632 - Lil Baby - Business Is Business(Explicit).flac
+661:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/542 - A$AP Rocky - 1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)(Explicit).flac
+662:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/233 - Kanye West - Last Call(Explicit).flac
+663:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/453 - Young Stoner Life - Diamonds Dancing (feat. Travis Scott)(Explicit).flac
+664:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/19 - Kanye West - Bound 2(Explicit).flac
+665:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/40 - Young Dolph - I See $'s(Explicit).flac
+666:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/80 - Juice WRLD - Sometimes(Explicit).flac
+667:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/901 - Cousin Stizz - Headlock (feat. Offset)(Explicit).flac
+668:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/205 - Lil Yachty - sHouLd i B-(Explicit).flac
+669:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/618 - Drake - No Friends In The Industry(Explicit).flac
+670:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/332 - Kid Cudi - Solo Dolo, Pt. III(Explicit).flac
+671:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/11 - Gunna - alotta cake(Explicit).flac
+672:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/135 - Post Malone - One Right Now(Explicit).flac
+673:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1057 - Lil Yachty - 66(Explicit).flac
+674:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1102 - Lil Yachty - FLEX(Explicit).flac
+675:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/461 - Young Thug - STS (feat. Strick)(Explicit).flac
+676:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/906 - Future - Promise U That(Explicit).flac
+677:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/302 - Future - Crushed Up(Explicit).flac
+678:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1189 - 21 Savage - My Choppa Hate Niggas(Explicit).flac
+679:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/78 - Kanye West - Everything I Am(Explicit).flac
+680:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/692 - Chillinit - Cashed Out Stoner(Explicit).flac
+681:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/764 - Rob $tone - Chill Bill (feat. J. Davi$ & Spooks)(Explicit).flac
+682:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/578 - Kanye West - Flashing Lights(Explicit).flac
+683:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/23 - NLE Choppa - Stompin(Explicit).flac
+684:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/474 - Nerve - Sunday Roast(Explicit).flac
+685:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1143 - Kid Trunks - 777(Explicit).flac
+686:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/24 - NLE Choppa - Change My Ways(Explicit).flac
+687:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/258 - Ombre2Choc Nation - I Kill People (Remix).flac
+688:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/769 - Trippie Redd - Love Scars(Explicit).flac
+689:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/871 - Playboi Carti - Long Time (Intro)(Explicit).flac
+690:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/780 - Ski Mask the Slump God - DAPPER DAN(Explicit).flac
+691:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/779 - YBN Nahmir - Bounce Out With That(Explicit).flac
+692:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/583 - Lil Tecca - Dolly(Explicit).flac
+693:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/567 - Dave - Clash(Explicit).flac
+694:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/895 - Travis Scott - through the late night(Explicit).flac
+695:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/196 - Lil Yachty - running out of time.flac
+696:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/448 - Lil Yachty - Forever World(Explicit).flac
+697:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/753 - Lil Baby - Drip Too Hard(Explicit).flac
+698:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1127 - King Von - I Am What I Am(Explicit).flac
+699:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1023 - 21 Savage - Steppin On Niggas(Explicit).flac
+700:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/375 - Chillinit - Overkill(Explicit).flac
+701:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/401 - Foogiano - TRAPPER (Remix) [feat. Lil Baby](Explicit).flac
+702:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/647 - Juice WRLD - Make Believe(Explicit).flac
+703:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/940 - Gunna - DO BETTER(Explicit).flac
+704:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/549 - Pop Smoke - 30(Explicit).flac
+705:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/34 - Young Dolph - No Sense(Explicit).flac
+706:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/219 - Kanye West - Come to Life.flac
+707:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/172 - A$AP Rocky - Goldie(Explicit).flac
+708:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/670 - Don Toliver - 5X(Explicit).flac
+709:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/902 - Lil Yachty - Oprah's Bank Account(Explicit).flac
+710:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1226 - Travis Scott - HYAENA(Explicit).flac
+711:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1052 - A$AP Rocky - Bad Company (feat. BlocBoy JB)(Explicit).flac
+712:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/98 - Skepta - No Security(Explicit).flac
+713:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/817 - DaBaby - Baby Sitter(Explicit).flac
+714:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/522 - Migos - Picasso(Explicit).flac
+715:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/413 - Juice WRLD - Make It Back(Explicit).flac
+716:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1092 - Ski Mask the Slump God - DoIHaveTheSause-(Explicit).flac
+717:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1001 - Lil Skies - Nowadays (feat. Landon Cube)(Explicit).flac
+718:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/09 - Gunna - 3 Headed Snake (feat. Young Thug)(Explicit).flac
+719:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/378 - Chillinit - Legendary(Explicit).flac
+720:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/438 - Trippie Redd - Everything BoZ(Explicit).flac
+721:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/279 - Key Glock - Gang Shit No Lame Shit(Explicit).flac
+722:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1043 - NLE Choppa - Top Shotta Flow(Explicit).flac
+723:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1175 - Pop Smoke - 44 BullDog(Explicit).flac
+724:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/538 - Playboi Carti - Fell In Luv(Explicit).flac
+725:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1079 - Lil Uzi Vert - 7AM(Explicit).flac
+726:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/614 - Juice WRLD - Blood On My Jeans(Explicit).flac
+727:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/430 - Trippie Redd - Hellboy(Explicit).flac
+728:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/991 - A$AP Ferg - Mattress REMIX (feat. A$AP Rocky, Playboi Carti, Rich The Kid & Famous Dex)(Explicit).flac
+729:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/526 - Migos - Modern Day(Explicit).flac
+730:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/22 - NLE Choppa - I.Y.B(Explicit).flac
+731:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1083 - DJ Scheme - How You Feel- (Freestyle)(Explicit).flac
+732:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/961 - XXXTENTACION - A GHETTO CHRISTMAS CAROL(Explicit).flac
+733:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/996 - Lil Skies - Fidget(Explicit).flac
+734:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/206 - Lil Yachty - The Alchemist(Explicit).flac
+735:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/867 - Rich The Kid - Fall Threw(Explicit).flac
+736:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/885 - Lil Yachty - BOOM!(Explicit).flac
+737:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/419 - Zaytoven - Strong(Explicit).flac
+738:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/440 - Trippie Redd - YELL OH(Explicit).flac
+739:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/433 - Trippie Redd - Forever Ever(Explicit).flac
+740:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/275 - JACKBOYS - GANG GANG(Explicit).flac
+741:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/38 - Young Dolph - On the River(Explicit).flac
+742:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/938 - Gunna - DOLLAZ ON MY HEAD (feat. Young Thug)(Explicit).flac
+743:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/653 - Chillinit - Underrated(Explicit).flac
+744:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/685 - Travis Scott - MAFIA(Explicit).flac
+745:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1160 - Future - Moment of Clarity(Explicit).flac
+746:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/883 - Lil Uzi Vert - Early 20 Rager(Explicit).flac
+747:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/898 - Travis Scott - SKELETONS(Explicit).flac
+748:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/55 - Young Dolph - How U Luv Dat(Explicit).flac
+749:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/561 - Dreamville - Oh Wow...Swerve(Explicit).flac
+750:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1033 - Lil Baby - Commercial(Explicit).flac
+751:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/454 - Young Stoner Life - Solid (feat. Drake)(Explicit).flac
+752:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/813 - Playboi Carti - Shoota(Explicit).flac
+753:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/941 - Gunna - COOLER THAN A BITCH (feat. Roddy Ricch)(Explicit).flac
+754:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1186 - Kodak Black - Feeling Myself Today(Explicit).flac
+755:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/79 - Kanye West - Follow God.flac
+756:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1133 - Trippie Redd - Kid That Didd(Explicit).flac
+757:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/849 - Young Thug - Hot (Remix) [feat. Gunna and Travis Scott](Explicit).flac
+758:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/701 - Kanye West - 30 Hours(Explicit).flac
+759:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1238 - Travis Scott - PARASAIL (feat. Yung Lean & Dave Chappelle)(Explicit).flac
+760:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/911 - Lil Uzi Vert - Venetia(Explicit).flac
+761:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/758 - XXXTENTACION - Fuck Love(Explicit).flac
+762:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1105 - Travis Scott - Watch (feat. Lil Uzi Vert & Kanye West)(Explicit).flac
+763:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/250 - Don Toliver - Embarrassed (feat. Travis Scott)(Explicit).flac
+764:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/976 - Bass Santana - You Are Not M.O(Explicit).flac
+765:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/452 - Young Stoner Life - Ski(Explicit).flac
+766:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/86 - A Boogie Wit da Hoodie - Man in the Mirror(Explicit).flac
+767:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/963 - Travis Scott - Apple Pie(Explicit).flac
+768:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/434 - Trippie Redd - Topanga(Explicit).flac
+769:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/903 - Lil Skies - Havin My Way (feat. Lil Durk)(Explicit).flac
+770:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/710 - NAV - Minute(Explicit).flac
+771:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/37 - Young Dolph - Major(Explicit).flac
+772:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/262 - DJ Scheme - E-ER(Explicit).flac
+773:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/197 - Lil Yachty - pRETTy(Explicit).flac
+774:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/325 - Chillinit - Wish You Well Pt. 2 (It's A Vibe)(Explicit).flac
+775:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/97 - Skepta - Glow In The Dark(Explicit).flac
+776:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/68 - Latto - Wheelie (feat. 21 Savage)(Explicit).flac
+777:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1233 - Travis Scott - FE!N (feat. Playboi Carti)(Explicit).flac
+778:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/714 - Lil Wayne - Mona Lisa(Explicit).flac
+779:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/301 - Future - Realer N Realer(Explicit).flac
+780:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/556 - Playboi Carti - Love Hurts(Explicit).flac
+781:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/123 - Juice WRLD - Robbery(Explicit).flac
+782:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/830 - Diplo - Wish(Explicit).flac
+783:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/787 - DJ Khaled - POPSTAR (feat. Drake)(Explicit).flac
+784:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/418 - Meek Mill - Offended (feat. Young Thug & 21 Savage)(Explicit).flac
+785:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/566 - Dave - Verdansk(Explicit).flac
+786:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/520 - Playboi Carti - Let It Go(Explicit).flac
+787:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/285 - Kid Cudi - Sept. 16.flac
+788:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/458 - Young Stoner Life - GFU (feat. Yung Kayo)(Explicit).flac
+789:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1206 - Young Thug - Wyclef Jean(Explicit).flac
+790:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/636 - Quavo - RERUN(Explicit).flac
+791:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1202 - Sheff G - Fear Over Love(Explicit).flac
+792:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/286 - Kid Cudi - Sad People(Explicit).flac
+793:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/405 - Foogiano - The Plan Pt. 2(Explicit).flac
+794:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/202 - Lil Yachty - IVE OFFICIALLY LOST ViSiON!!!!(Explicit).flac
+795:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/628 - Lil Baby - Heatin Up(Explicit).flac
+796:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/680 - Lil Durk - Pissed Me Off(Explicit).flac
+797:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/447 - Lil Yachty - SB5(Explicit).flac
+798:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/524 - Migos - Type Shit(Explicit).flac
+799:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/256 - JACKBOYS - GATTI(Explicit).flac
+800:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1190 - Playboi Carti - Yah Mean(Explicit).flac
+801:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/155 - Drake - Money In The Grave(Explicit).flac
+802:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/169 - A$AP Rocky - Fashion Killa(Explicit).flac
+803:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1015 - Trippie Redd - Sickening(Explicit).flac
+804:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1132 - Trippie Redd - Too Fly(Explicit).flac
+805:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/592 - Comethazine - DEMAR DEROZAN(Explicit).flac
+806:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1103 - Playboi Carti - Lookin(Explicit).flac
+807:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/751 - Juice WRLD - Armed And Dangerous(Explicit).flac
+808:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1220 - RV - Mosh Pit (feat. DigDat)(Explicit).flac
+809:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1086 - Lil Yachty - Up Next 3(Explicit).flac
+810:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/245 - Drelli - We Don't Sell Dope(Explicit).flac
+811:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1199 - Sheff G - Think I'm Playing(Explicit).flac
+812:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/386 - Rich Gang - Lifestyle(Explicit).flac
+813:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/970 - Juice WRLD - Wishing Well(Explicit).flac
+814:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/876 - YoungBoy Never Broke Again - Make No Sense(Explicit).flac
+815:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/215 - Key Glock - Designer Down(Explicit).flac
+816:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/395 - Lil Uzi Vert - Chrome Heart Tags(Explicit).flac
+817:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/498 - YRN Lingo - All Time High(Explicit).flac
+818:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/20 - NLE Choppa - Shotta Flow 6(Explicit).flac
+819:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/859 - Lil Yachty - BABY DADDY(Explicit).flac
+820:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/841 - Bobby Shmurda - Hot N-gga(Explicit).flac
+821:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/560 - Lute - GED (Gettin Every Dolla)(Explicit).flac
+822:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/30 - Juice WRLD - 10 Feet(Explicit).flac
+823:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/937 - Gunna - FEIGNING(Explicit).flac
+824:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/803 - Polo G - Through Da Storm(Explicit).flac
+825:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/481 - Young Nudy - You Ain't Hard(Explicit).flac
+826:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/117 - Migos - Stir Fry(Explicit).flac
+827:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1163 - Future - Tic Tac(Explicit).flac
+828:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/63 - King Von - Don't Play That(Explicit).flac
+829:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1237 - Travis Scott - CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)(Explicit).flac
+830:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/118 - Gunna - Banking on Me(Explicit).flac
+831:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/862 - Post Malone - rockstar(Explicit).flac
+832:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1017 - DaBaby - BLIND(Explicit).flac
+833:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/472 - Young Stoner Life - That Go! (feat. T-Shyne)(Explicit).flac
+834:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/344 - slowthai - MAZZA(Explicit).flac
+835:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/235 - Kanye West - Heaven and Hell.flac
+836:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/687 - Juice WRLD - Already Dead(Explicit).flac
+837:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/513 - Polo G - Clueless(Explicit).flac
+838:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/333 - Playboi Carti - Not PLaying(Explicit).flac
+839:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/446 - Lil Yachty - Dynamic Duo(Explicit).flac
+840:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/950 - Offset - How Did I Get Here(Explicit).flac
+841:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1167 - Young Thug - Check(Explicit).flac
+842:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/981 - Gunna - RELENTLESS (feat. Lil Uzi Vert)(Explicit).flac
+843:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/861 - J. Cole - ATM(Explicit).flac
+844:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1025 - Trippie Redd - Never Ever Land(Explicit).flac
+845:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/93 - Skepta - Konnichiwa(Explicit).flac
+846:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/736 - Lil Yachty - MICKEY(Explicit).flac
+847:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1058 - Don Toliver - Euphoria (feat. Travis Scott & Kaash Paige)(Explicit).flac
+848:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/467 - Young Stoner Life - Explosion (feat. Yak Gotti & FN DaDealer)(Explicit).flac
+849:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/193 - Lil Yachty - running out of time.flac
+850:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/457 - Young Stoner Life - Came Out (feat. Lil Keed)(Explicit).flac
+851:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/41 - Young Dolph - To Be Honest(Explicit).flac
+852:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/06 - Gunna - mop (feat. Young Thug)(Explicit).flac
+853:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/750 - Jay Critch - Ego(Explicit).flac
+854:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/127 - A Boogie Wit da Hoodie - Luv Is Art (feat. Lil Uzi Vert)(Explicit).flac
+855:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/874 - Chief Keef - Love Sosa(Explicit).flac
+856:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/802 - Cooliecut - Red Pills (Love in the Matrix)(Explicit).flac
+857:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/579 - Kanye West - Ultralight Beam(Explicit).flac
+858:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/799 - 21 Savage - can't leave without it(Explicit).flac
+859:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/211 - Key Glock - Work(Explicit).flac
+860:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/244 - Future - RACKS BLUE(Explicit).flac
+861:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/392 - Lil Uzi Vert - Lo Mein(Explicit).flac
+862:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/96 - Skepta - Same Old Story(Explicit).flac
+863:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/103 - Kanye West - I Wonder(Explicit).flac
+864:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/691 - DaBaby - 5 FOR A DUB(Explicit).flac
+865:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1150 - 21 Savage - all my friends(Explicit).flac
+866:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/304 - Future - Feds Did a Sweep(Explicit).flac
+867:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/855 - Travis Scott - NO BYSTANDERS(Explicit).flac
+868:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1210 - Young Thug - What's the Move (feat. Lil Uzi Vert)(Explicit).flac
+869:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1128 - King Von - 3 A.M(Explicit).flac
+870:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/479 - Internet Money - His & Hers(Explicit).flac
+871:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/777 - Lil Uzi Vert - Dark Queen(Explicit).flac
+872:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/619 - 21 Savage - Still Serving(Explicit).flac
+873:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1076 - Madeintyo - Chucky Cheese(Explicit).flac
+874:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1140 - Kodak Black - Codeine Dreaming (feat. Lil Wayne)(Explicit).flac
+875:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1137 - King Von - Wayne's Story(Explicit).flac
+876:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/75 - Kanye West - Runaway(Explicit).flac
+877:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1214 - Dave - Screwface Capital(Explicit).flac
+878:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1228 - Travis Scott - MODERN JAM (feat. Teezo Touchdown)(Explicit).flac
+879:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/931 - Huncho Jack - Modern Slavery(Explicit).flac
+880:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1118 - Trippie Redd - Love Scars 4(Explicit).flac
+881:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/857 - Lil Yachty - Riley From The Boondocks(Explicit).flac
+882:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/144 - Kanye West - Gone(Explicit).flac
+883:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/277 - Future - That’s It(Explicit).flac
+884:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/718 - Polo G - Unapologetic(Explicit).flac
+885:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/925 - Drake - Sneakin’(Explicit).flac
+886:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/621 - Offset - Wild Wild West(Explicit).flac
+887:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/384 - Playboi Carti - ILoveUIHateU(Explicit).flac
+888:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/487 - J. Cole - Photograph(Explicit).flac
+889:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/744 - J. Cole - No Role Modelz(Explicit).flac
+890:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/105 - Kanye West - Barry Bonds(Explicit).flac
+891:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/53 - Young Dolph - RAIN RAIN(Explicit).flac
+892:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/633 - Gunna - Style Stealer(Explicit).flac
+893:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/150 - J. Cole - Apparently(Explicit).flac
+894:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/32 - Juice WRLD - Cigarettes(Explicit).flac
+895:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1067 - A Boogie Wit da Hoodie - Startender (feat. Offset & Tyga)(Explicit).flac
+896:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1159 - Future - Bankroll(Explicit).flac
+897:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/366 - Lil Durk - To Be Honest(Explicit).flac
+898:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/835 - Lil Tecca - Ransom (Remix)(Explicit).flac
+899:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/252 - Kanye West - Facts (Charlie Heat Version)(Explicit).flac
+900:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/482 - 21 Savage - Emergency (feat. Gunna & Young Thug)(Explicit).flac
+901:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/569 - Vince Staples - TAKE ME HOME(Explicit).flac
+902:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1011 - 21 Savage - RIP Luv(Explicit).flac
+903:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1152 - ESSIE GANG - Pattern Chanel(Explicit).flac
+904:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1151 - 21 Savage - 4L(Explicit).flac
+905:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/44 - Young Dolph - Death Row(Explicit).flac
+906:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/264 - DJ Scheme - Thor's Hammer Worthy(Explicit).flac
+907:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1125 - King Von - GTA(Explicit).flac
+908:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1130 - Trippie Redd - No Honorable Mention(Explicit).flac
+909:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/62 - Cordae - Chronicles (feat. H.E.R. & Lil Durk)(Explicit).flac
+910:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/786 - Drake - Laugh Now Cry Later(Explicit).flac
+911:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/708 - Future - Trap Niggas(Explicit).flac
+912:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1242 - Travis Scott - K-POP (feat. Bad Bunny & The Weeknd)(Explicit).flac
+913:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1173 - Huncho Jack - Saint(Explicit).flac
+914:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1208 - Young Thug - Digits(Explicit).flac
+915:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1095 - Young Thug - Mannequin Challenge (feat. Juice WRLD)(Explicit).flac
+916:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/393 - Lil Uzi Vert - Money Spread (feat. Young Nudy)(Explicit).flac
+917:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/121 - Don Toliver - Mamma Mia(Explicit).flac
+918:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/838 - Young Thug - pick up the phone(Explicit).flac
+919:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/622 - Offset - Tats On My Face(Explicit).flac
+920:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/300 - Kendrick Lamar - Big Shot(Explicit).flac
+921:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/261 - Sheff G - Moody(Explicit).flac
+922:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1145 - King Von - Down Me(Explicit).flac
+923:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/690 - Cordae - Super(Explicit).flac
+924:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/912 - Lil Uzi Vert - Homecoming(Explicit).flac
+925:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1019 - Lil Yachty - Split-Whole Time(Explicit).flac
+926:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/907 - Future - First Off (feat. Travis Scott)(Explicit).flac
+927:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/559 - lute - Life(Explicit).flac
+928:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/872 - YBN Nahmir - Rubbin off the Paint(Explicit).flac
+929:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/179 - A$AP Rocky - OG Beeper(Explicit).flac
+930:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/877 - Takeoff - Casper(Explicit).flac
+931:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/400 - Foogiano - MOLLY (Remix) [feat. DaBaby](Explicit).flac
+932:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/451 - Rich The Kid - Too Blessed(Explicit).flac
+933:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1040 - NLE Choppa - Shotta Flow 5(Explicit).flac
+934:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/939 - Gunna - WUNNA(Explicit).flac
+935:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/417 - Metro Boomin - Overdue(Explicit).flac
+936:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1034 - Gunna - SKYBOX(Explicit).flac
+937:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1122 - Trippie Redd - So Stressed(Explicit).flac
+938:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/851 - Trippie Redd - Can You Rap Like Me (Pt. 2)(Explicit).flac
+939:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/122 - Don Toliver - 2 Lil Shorty(Explicit).flac
+940:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1018 - A Boogie Wit da Hoodie - Right Back(Explicit).flac
+941:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/957 - iann dior - Prospect(Explicit).flac
+942:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/89 - Gucci Mane - Tho Freestyle(Explicit).flac
+943:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/662 - Meek Mill - Sharing Locations (feat. Lil Baby & Lil Durk)(Explicit).flac
+944:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/190 - Trippie Redd - COLORS(Explicit).flac
+945:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/284 - Kid Cudi - Show Out(Explicit).flac
+946:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/916 - Lil Uzi Vert - Myron(Explicit).flac
+947:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/854 - XXXTENTACION - bad vibes forever(Explicit).flac
+948:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/167 - A$AP Rocky - Ghetto Symphony (feat. Gunplay & A$AP Ferg)(Explicit).flac
+949:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/510 - Cico P - Tampa(Explicit).flac
+950:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/371 - Pooh Shiesty - 7.62 God(Explicit).flac
+951:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1073 - Lil Yachty - she ready(Explicit).flac
+952:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1169 - Pop Smoke - For The Night(Explicit).flac
+953:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1065 - Ski Mask the Slump God - JustLikeMyPiss(Explicit).flac
+954:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/376 - Rushy - Trippidy Trap(Explicit).flac
+955:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/684 - Travis Scott - ESCAPE PLAN(Explicit).flac
+956:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/180 - A$AP Rocky - Hun43rd(Explicit).flac
+957:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1147 - King Von - Crazy Story(Explicit).flac
+958:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/415 - Trippie Redd - Bust Down(Explicit).flac
+959:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/894 - Travis Scott - 3500 (feat. Future & 2 Chainz)(Explicit).flac
+960:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/637 - Gucci Mane - Wake up in the Sky(Explicit).flac
+961:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/232 - Kanye West - All Falls Down(Explicit).flac
+962:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/848 - Travis Scott - way back(Explicit).flac
+963:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/64 - King Von - Facetime(Explicit).flac
+964:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/686 - NLE Choppa - Jumpin (feat. Polo G)(Explicit).flac
+965:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/646 - Juice WRLD - HeMotions(Explicit).flac
+966:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/13 - Gunna - too easy (Remix) [feat. Future & Roddy Ricch](Explicit).flac
+967:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/689 - Playboi Carti - Lame Niggaz(Explicit).flac
+968:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/897 - Travis Scott - CAN'T SAY(Explicit).flac
+969:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/598 - Comethazine - HENCH MAFIA(Explicit).flac
+970:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1098 - Dreamville - Costa Rica(Explicit).flac
+971:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/638 - Juice WRLD - The Bees Knees(Explicit).flac
+972:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/272 - Wifisfuneral - EA(Explicit).flac
+973:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1124 - King Von - Armed & Dangerous(Explicit).flac
+974:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/918 - Lil Uzi Vert - Yessirskiii(Explicit).flac
+975:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/49 - Paper Route Empire - Proud(Explicit).flac
+976:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1239 - Travis Scott - SKITZO (feat. Young Thug)(Explicit).flac
+977:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/326 - Chillinit - One Breath One Take(Explicit).flac
+978:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/265 - DJ Scheme - Trust Nobody (2 My Brothers)(Explicit).flac
+979:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/563 - Dave - Twenty To One(Explicit).flac
+980:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/50 - Key Glock - Dough(Explicit).flac
+981:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/890 - Lil Baby - Same Thing(Explicit).flac
+982:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/263 - DJ Scheme - Soda(Explicit).flac
+983:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/186 - Metro Boomin - Too Many Nights(Explicit).flac
+984:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/493 - Young Nudy - Revenge(Explicit).flac
+985:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/48 - Young Dolph - Ill(Explicit).flac
+986:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/60 - DaBaby - CALL IT EVEN(Explicit).flac
+987:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/962 - Drake - Portland(Explicit).flac
+988:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/742 - Lil Skies - Red Roses (feat. Landon Cube)(Explicit).flac
+989:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/728 - Young Thug - Surf (feat. Gunna)(Explicit).flac
+990:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/364 - Lil Durk - Going Strong(Explicit).flac
+991:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/435 - Trippie Redd - Fire Starter(Explicit).flac
+992:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/133 - Post Malone - Insane(Explicit).flac
+993:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1048 - DaBaby - Walker Texas Ranger(Explicit).flac
+994:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/730 - Playboi Carti - On That Time(Explicit).flac
+995:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/182 - A$AP Rocky - Purity (feat. Frank Ocean)(Explicit).flac
+996:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/508 - A Boogie Wit da Hoodie - Still Think About You(Explicit).flac
+997:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1155 - Future - Drankin N Smokin(Explicit).flac
+998:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/380 - Thekidszn - Goat(Explicit).flac
+999:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1231 - Travis Scott - SIRENS(Explicit).flac
+1000:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/319 - Chillinit - Freedom(Explicit).flac
+1001:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/95 - Skepta - Lyrics(Explicit).flac
+1002:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/229 - Juice WRLD - Flaws And Sins(Explicit).flac
+1003:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/889 - Huncho Jack - Motorcycle Patches(Explicit).flac
+1004:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1229 - Travis Scott - MY EYES(Explicit).flac
+1005:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/913 - Lil Uzi Vert - You Better Move(Explicit).flac
+1006:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/675 - G Herbo - PTSD(Explicit).flac
+1007:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/162 - SZA - Open Arms (feat. Travis Scott).flac
+1008:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/47 - Young Dolph - 1 Hell of a Life(Explicit).flac
+1009:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/551 - Pop Smoke - Coupe(Explicit).flac
+1010:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/706 - Chillinit - Bigger They Are, Harder They Fall(Explicit).flac
+1011:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/137 - Drake - Jimmy Cooks(Explicit).flac
+1012:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1192 - Sheff G - Flows(Explicit).flac
+1013:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/31 - YoungBoy Never Broke Again - No Switch(Explicit).flac
+1014:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1071 - Juice WRLD - Maze(Explicit).flac
+1015:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1005 - KYLE - YES! (feat. Rich The Kid & K CAMP)(Explicit).flac
+1016:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/837 - Cordae - Broke As Fuck(Explicit).flac
+1017:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/934 - Post Malone - Psycho(Explicit).flac
+1018:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/993 - G Herbo - Glass in the Face(Explicit).flac
+1019:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/954 - Huncho Jack - Black & Chinese(Explicit).flac
+1020:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1056 - Ski Mask the Slump God - New Age Chip Skylark(Explicit).flac
+1021:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/747 - Tory Lanez - FeRRis WhEEL(Explicit).flac
+1022:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/565 - AJ Tracey - Dinner Guest (feat. MoStack)(Explicit).flac
+1023:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/67 - Yeat - Monëy so big(Explicit).flac
+1024:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/623 - Quavo - BIGGEST ALLEY OOP(Explicit).flac
+1025:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/661 - Meek Mill - Intro (Hate on Me)(Explicit).flac
+1026:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/516 - Polo G - Black Hearted(Explicit).flac
+1027:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1007 - BlueFace - Murder Rate(Explicit).flac
+1028:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1104 - Lil Uzi Vert - 444+222(Explicit).flac
+1029:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/409 - Baby Keem - STATS(Explicit).flac
+1030:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/254 - Octavian - Risking Our Lives(Explicit).flac
+1031:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1141 - Cooliecut - Over the Rainbow(Explicit).flac
+1032:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/665 - Meek Mill - Blue Notes 2 (feat. Lil Uzi Vert)(Explicit).flac
+1033:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/394 - Lil Uzi Vert - Bigger Than Life(Explicit).flac
+1034:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/891 - Travis Scott - HOUSTONFORNICATION(Explicit).flac
+1035:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/456 - Young Stoner Life - WokStar (feat. Strick & Skepta)(Explicit).flac
+1036:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/359 - AG Club - Memphis, Pt. 2(Explicit).flac
+1037:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/151 - Lil Wayne - President Carter(Explicit).flac
+1038:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/733 - Ski Mask the Slump God - Faucet Failure(Explicit).flac
+1039:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/59 - Tion Wayne - Where Were They(Explicit).flac
+1040:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/587 - Trippie Redd - Matt Hardy 999(Explicit).flac
+1041:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1134 - Trippie Redd - Hell Rain(Explicit).flac
+1042:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/381 - NLE Choppa - Ruff Rydas(Explicit).flac
+1043:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/693 - Chillinit - Susan's Son(Explicit).flac
+1044:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1063 - Ski Mask the Slump God - He Diddy!(Explicit).flac
+1045:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/927 - Future - Ridin Strikers(Explicit).flac
+1046:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/120 - Future - Hallucinating(Explicit).flac
+1047:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/949 - Offset - Red Room(Explicit).flac
+1048:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1082 - DJ Scheme - Hey Mister(Explicit).flac
+1049:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1087 - Lil Yachty - Shoot Out The Roof(Explicit).flac
+1050:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/700 - YoungBoy Never Broke Again - Murda (feat. Trippie Redd)(Explicit).flac
+1051:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/374 - Pooh Shiesty - Neighbors (feat. BIG30)(Explicit).flac
+1052:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/429 - Trippie Redd - In Too Deep(Explicit).flac
+1053:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/148 - Kanye West - Family Business(Explicit).flac
+1054:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/161 - SZA - F2F(Explicit).flac
+1055:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/900 - Travis Scott - ASTROTHUNDER(Explicit).flac
+1056:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/844 - YoungBoy Never Broke Again - Self Control(Explicit).flac
+1057:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/303 - YNG Martyr - 1992(Explicit).flac
+1058:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/204 - Lil Yachty - paint THE sky.flac
+1059:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/945 - Lil Yachty - Black Jesus(Explicit).flac
+1060:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/01 - Kodak Black - Love & War(Explicit).flac
+1061:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/65 - King Von - Why He Told(Explicit).flac
+1062:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1094 - Young Thug - Bad Bad Bad (feat. Lil Baby)(Explicit).flac
+1063:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/355 - NLE Choppa - Step(Explicit).flac
+1064:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/312 - Travis Scott - outside(Explicit).flac
+1065:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/278 - DaBaby - SHUT UP(Explicit).flac
+1066:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/836 - Juice WRLD - Feeling(Explicit).flac
+1067:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/771 - Trippie Redd - UKA UKA(Explicit).flac
+1068:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/734 - A$AP Rocky - Praise The Lord (Da Shine) (feat. Skepta)(Explicit).flac
+1069:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/767 - Trippie Redd - Dark Knight Dummo(Explicit).flac
+1070:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/339 - Lil Uzi Vert - Pretty Mami(Explicit).flac
+1071:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/577 - Isaiah Rashad - 9-3 Freestyle(Explicit).flac
+1072:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1077 - Gunna - Oh Okay (feat. Young Thug & Lil Baby)(Explicit).flac
+1073:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/495 - Young Nudy - Child's Play (feat. 21 Savage)(Explicit).flac
+1074:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1123 - Trippie Redd - Never Change(Explicit).flac
+1075:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1115 - Lil Skies - World Rage(Explicit).flac
+1076:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/139 - Kid Cudi - love(Explicit).flac
+1077:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1050 - Moneybagg Yo - 1 2 3(Explicit).flac
+1078:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/845 - Travis Scott - beibs in the trap(Explicit).flac
+1079:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/992 - Internet Money - Lemonade(Explicit).flac
+1080:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1232 - Travis Scott - MELTDOWN (feat. Drake)(Explicit).flac
+1081:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/756 - Lil Yachty - Shoot Out The Roof(Explicit).flac
+1082:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/269 - Robb Bank$ - BRAIN (feat. Mikey Moore, Deetranada)(Explicit).flac
+1083:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/536 - Kanye West - Father Stretch My Hands Pt. 1(Explicit).flac
+1084:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1187 - Kodak Black - Calling My Spirit(Explicit).flac
+1085:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/656 - Sheck Wes - Mo Bamba(Explicit).flac
+1086:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1195 - Sheff G - Weight On Me(Explicit).flac
+1087:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1121 - Trippie Redd - Weeeeee(Explicit).flac
+1088:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1203 - Sheff G - Once I'm Gone(Explicit).flac
+1089:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/880 - 21 Savage - Rap Saved Me (feat. Quavo)(Explicit).flac
+1090:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1198 - Sheff G - All My Life(Explicit).flac
+1091:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/738 - Ski Mask the Slump God - Nuketown(Explicit).flac
+1092:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/729 - Playboi Carti - New Tank(Explicit).flac
+1093:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/238 - Tyler, The Creator - DOGTOOTH(Explicit).flac
+1094:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/178 - A$AP Rocky - Tony Tone(Explicit).flac
+1095:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/335 - Blac Youngsta - Gun Smoke(Explicit).flac
+1096:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/15 - XXXTENTACION - Boost!(Explicit).flac
+1097:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1061 - Ski Mask the Slump God - Unbothered(Explicit).flac
+1098:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/27 - Pooh Shiesty - Switch it Up (feat. G Herbo, No More Heroes)(Explicit).flac
+1099:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/669 - Masego - Mystery Lady.flac
+1100:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/109 - Kanye West - Hell Of A Life(Explicit).flac
+1101:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/259 - Future - Patek(Explicit).flac
+1102:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/187 - Trippie Redd - MANSION MUSIK(Explicit).flac
+1103:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/722 - J. Cole - Kevin’s Heart(Explicit).flac
+1104:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/03 - Jay1 - Your Mrs(Explicit).flac
+1105:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/337 - Lil Uzi Vert - Malfunction(Explicit).flac
+1106:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/466 - Gunna - NASTY GIRL - ON CAMERA(Explicit).flac
+1107:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/815 - Lil Uzi Vert - Sanguine Paradise(Explicit).flac
+1108:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1178 - Pop Smoke - Hello(Explicit).flac
+1109:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/585 - Trippie Redd - Super Cell(Explicit).flac
+1110:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/295 - NLE Choppa - Shotta Flow 3(Explicit).flac
+1111:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/05 - Gunna - thought i was playing(Explicit).flac
+1112:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/314 - Lil Yachty - SaintLaurentYSL(Explicit).flac
+1113:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/504 - Takeoff - She Gon Wink(Explicit).flac
+1114:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/396 - Lil Uzi Vert - Prices(Explicit).flac
+1115:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/33 - Jack Harlow - SUVs (Black On Black)(Explicit).flac
+1116:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/83 - Kanye West - Violent Crimes(Explicit).flac
+1117:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/762 - Future - Mask Off(Explicit).flac
+1118:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/640 - The Kid LAROI - Diva (feat. Lil Tecca)(Explicit).flac
+1119:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/944 - Lil Yachty - Top Down(Explicit).flac
+1120:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/765 - Post Malone - No Option(Explicit).flac
+1121:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/283 - Kid Cudi - Rockstar Knights(Explicit).flac
+1122:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1004 - Migos - Need It(Explicit).flac
+1123:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/389 - AJ Tracey - Bringing It Back (with Digga D)(Explicit).flac
+1124:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1030 - DaBaby - BILLBOARD BABY(Explicit).flac
+1125:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/971 - Juice WRLD - Screw Juice(Explicit).flac
+1126:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/268 - Wifisfuneral - Can't Feel My Face(Explicit).flac
+1127:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/94 - Skepta - Crime Riddim(Explicit).flac
+1128:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/468 - Young Stoner Life - Mil In Vegas (feat. NAV)(Explicit).flac
+1129:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/959 - Trippie Redd - The Way(Explicit).flac
+1130:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/87 - King Von - Ride(Explicit).flac
+1131:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/831 - Post Malone - Enemies(Explicit).flac
+1132:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/222 - Kanye West - Blood On The Leaves(Explicit).flac
+1133:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/605 - Kanye West - Praise God.flac
+1134:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/425 - Trippie Redd - Limitless(Explicit).flac
+1135:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/804 - J. Cole - MIDDLE CHILD(Explicit).flac
+1136:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1049 - Trippie Redd - Sleepy Hollow(Explicit).flac
+1137:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/921 - Sauce Walka - Texas Cyclone (feat. Travis Scott)(Explicit).flac
+1138:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/933 - Post Malone - Congratulations(Explicit).flac
+1139:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/343 - NLE Choppa - Moonlight (feat. Big Sean)(Explicit).flac
+1140:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1162 - Lil Uzi Vert - You're Lost(Explicit).flac
+1141:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1110 - Juice WRLD - Lean Wit Me(Explicit).flac
+1142:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1234 - Travis Scott - DELRESTO (ECHOES) (feat. Beyoncé)(Explicit).flac
+1143:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/550 - Pop Smoke - Beat The Speaker(Explicit).flac
+1144:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/827 - Post Malone - Up There(Explicit).flac
+1145:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1054 - Lil Gnar - Diamond Choker(Explicit).flac
+1146:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/390 - Drake - Wants and Needs(Explicit).flac
+1147:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/863 - Kodak Black - MoshPit (feat. Juice WRLD)(Explicit).flac
+1148:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/509 - Playboi Carti - Flex(Explicit).flac
+1149:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/920 - Lil Uzi Vert - Leaders (feat. NAV)(Explicit).flac
+1150:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/223 - Kanye West - Saint Pablo(Explicit).flac
+1151:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/437 - Trippie Redd - Mac 10(Explicit).flac
+1152:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/426 - Trippie Redd - Love Scars Pt. 2 - Rack City(Explicit).flac
+1153:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1070 - Juice WRLD - Syphilis(Explicit).flac
+1154:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1216 - Hardy Caprio - Zoom(Explicit).flac
+1155:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/130 - KSI - Lose(Explicit).flac
+1156:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1183 - Kodak Black - Corrlinks and JPay(Explicit).flac
+1157:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/627 - Lil Baby - Grace(Explicit).flac
+1158:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/188 - Trippie Redd - PSYCHO(Explicit).flac
+1159:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/82 - Juice WRLD - Desire(Explicit).flac
+1160:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/134 - Post Malone - When I’m Alone.flac
+1161:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/341 - Lil Uzi Vert - Loaded(Explicit).flac
+1162:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/171 - A$AP Rocky - PMW (All I Really Need) (feat. ScHoolboy Q)(Explicit).flac
+1163:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/90 - Skepta - Man(Explicit).flac
+1164:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/985 - DaBaby - NO DRIBBLE(Explicit).flac
+1165:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/349 - NLE Choppa - Protect(Explicit).flac
+1166:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/572 - Bass Santana - on me!(Explicit).flac
+1167:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/852 - XXXTENTACION - Gassed Up!(Explicit).flac
+1168:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/519 - Playboi Carti - NO. 9(Explicit).flac
+1169:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/603 - Gunna - My Soul(Explicit).flac
+1170:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/506 - Takeoff - Vacation(Explicit).flac
+1171:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/698 - Drake - Knife Talk(Explicit).flac
+1172:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/92 - Southside - Hold That Heat (feat. Travis Scott)(Explicit).flac
+1173:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/534 - Tyler, The Creator - RUNITUP (feat. Teezo Touchdown)(Explicit).flac
+1174:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/816 - Gucci Mane - Proud of You(Explicit).flac
+1175:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1075 - Young Thug - The London (feat. J. Cole & Travis Scott)(Explicit).flac
+1176:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/497 - Dusty Locane - Rolando (Caught In The Rain)(Explicit).flac
+1177:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1053 - Pap Chanel - Gucci Bucket Hat(Explicit).flac
+1178:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1046 - NLE Choppa - Watch Out for the Narcs(Explicit).flac
+1179:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/246 - Joey Bada$$ - DEVASTATED(Explicit).flac
+1180:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/746 - Lil Yachty - DipSet(Explicit).flac
+1181:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/832 - DaBaby - BOP(Explicit).flac
+1182:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/308 - A Boogie Wit da Hoodie - Say A'(Explicit).flac
+1183:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/490 - Future - Unicorn Purp (feat. Young Thug & Gunna)(Explicit).flac
+1184:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/201 - Lil Yachty - drive ME crazy!(Explicit).flac
+1185:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/112 - Kanye West - Welcome To Heartbreak.flac
+1186:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/681 - Juice WRLD - Scared Of Love (with instrumental by Ghost Loft)(Explicit).flac
+1187:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/850 - Trippie Redd - The Grinch(Explicit).flac
+1188:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/387 - Playboi Carti - Broke Boi(Explicit).flac
+1189:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/720 - Juice WRLD - Burn(Explicit).flac
+1190:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/141 - Kanye West - All Day(Explicit).flac
+1191:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/757 - Lil Yachty - Yacht Club(Explicit).flac
+1192:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/557 - KSI - The Moment(Explicit).flac
+1193:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/113 - Kanye West - Coldest Winter.flac
+1194:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/131 - Nas - N.Y. State of Mind(Explicit).flac
+1195:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/818 - Famous Dex - PICK IT UP (feat. A$AP Rocky)(Explicit).flac
+1196:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/892 - Travis Scott - Pornography(Explicit).flac
+1197:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/601 - 21 Savage - Ocean Drive(Explicit).flac
+1198:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/129 - A Boogie Wit da Hoodie - Hit 'Em Up (feat. Trap Manny)(Explicit).flac
+1199:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1016 - G Herbo - By Any Means(Explicit).flac
+1200:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/977 - A$AP Rocky - Kids Turned Out Fine(Explicit).flac
+1201:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1222 - Octavian - Bet (feat. Skepta & Michael Phantom)(Explicit).flac
+1202:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/881 - Travis Scott - 90210 (feat. Kacy Hill)(Explicit).flac
+1203:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/948 - XXXTENTACION - 4Peat(Explicit).flac
+1204:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/739 - Ski Mask the Slump God - Foot Fungus(Explicit).flac
+1205:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/397 - Comethazine - Nutted(Explicit).flac
+1206:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/956 - Huncho Jack - Where U From(Explicit).flac
+1207:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1215 - Karma - Back 2 Back(Explicit).flac
+1208:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/88 - Gucci Mane - Met Gala (feat. Offset)(Explicit).flac
+1209:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/491 - Drake - 6 God(Explicit).flac
+1210:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1060 - Ski Mask the Slump God - Reborn To Rebel(Explicit).flac
+1211:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/763 - Gucci Mane - Drove U Crazy (feat. Bryson Tiller)(Explicit).flac
+1212:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/464 - Moneybagg Yo - Change Partners(Explicit).flac
+1213:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1027 - Sheck Wes - Gmail(Explicit).flac
+1214:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/649 - Chillinit - Whateva You Need(Explicit).flac
+1215:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/735 - Travis Scott - Impossible(Explicit).flac
+1216:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/356 - NLE Choppa - Always Workin'(Explicit).flac
+1217:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/672 - Don Toliver - Flocky Flocky (feat. Travis Scott)(Explicit).flac
+1218:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1006 - JustZeke - The Meet Up(Explicit).flac
+1219:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/209 - J. Cole - Snow On Tha Bluff(Explicit).flac
+1220:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/573 - Bass Santana - I know you miss me bitch!(Explicit).flac
+1221:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/362 - Lil Durk - Still Trappin'(Explicit).flac
+1222:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/354 - NLE Choppa - Untold(Explicit).flac
+1223:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/997 - Travis Scott - Maria I'm Drunk (feat. Justin Bieber & Young Thug)(Explicit).flac
+1224:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/177 - A$AP Rocky - Max B (feat. Joe Fox)(Explicit).flac
+1225:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/936 - Gunna - TOP FLOOR (feat. Travis Scott)(Explicit).flac
+1226:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1106 - A$AP Mob - Bahamas (feat. A$AP Rocky, A$AP Ferg, A$AP Twelvyy, Lil Yachty, KEY!, ScHoolboy Q & Smooky MarGielaa)(Explicit).flac
+1227:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/324 - Chillinit - 420 Queen St(Explicit).flac
+1228:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1108 - Big Sean - Bezerk(Explicit).flac
+1229:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/748 - Trippie Redd - 1400 - 999 Freestyle(Explicit).flac
+1230:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/156 - Drake - Pound Cake - Paris Morton Music 2(Explicit).flac
+1231:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/76 - YNW Melly - Mind of Melvin (feat. Lil Uzi Vert)(Explicit).flac
+1232:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/1165 - Travis Scott - 5% TINT(Explicit).flac
+1233:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/61 - Big Sean - Wolves(Explicit).flac
+1234:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/185 - Moneybagg Yo - Quickie(Explicit).flac
+1235:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/492 - Moneybagg Yo - Wockesha(Explicit).flac
+1236:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/590 - Trippie Redd - Immortal(Explicit).flac
+1237:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/414 - Lil Uzi Vert - Baby Pluto(Explicit).flac
+1238:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/568 - Dave - In The Fire(Explicit).flac
+1239:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/904 - Future - DOH DOH (feat. Young Scooter)(Explicit).flac
+1240:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/174 - A$AP Rocky - Canal St. (feat. Bones)(Explicit).flac
+1241:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/294 - NLE Choppa - Who TF up in My Trap(Explicit).flac
+1242:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/369 - 24kGoldn - DROPPED OUTTA COLLEGE(Explicit).flac
+1243:1404 [6a3b1350-9fc8-464a-a58a-ed978c8660df]/740 - Trippie Redd - Shake It Up(Explicit).flac
+playlist_end
